@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fastrack24.in/sitemap.xml

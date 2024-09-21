@@ -1,0 +1,11 @@
+Sl_No,User_ID,Sponsor,Placement,Position,Package,Name,Email,Phone,Address,Bank,Branch,Account_Name,Account_No.,IFSC_Code,Aadhar,Pancard,Payeer,Paypal,Perfect_Money,PayTM,UPI,Status,Pay_Status,Epin,Date,Approved
+1,FT4852159,,,,,Member,sujoy.assoftech@gmail.com,9830098300,kolkata,"STATE BANK OF INDIA",KOLKATA,MEMBER,9830098300,SBI001,859685748596,BFOPD9601L,343434334343,adfasdfas,adsfasdf,9830098300,asdfasdfasdf,Approved,Paid,,2021-03-30,
+2,FT7119683,FT4852159,FT4852159,Left,"Bhudeva DAP",Member1,member1@gmail.com,9830098302,"kolkata, west bengal, India",,,,,,,,,,,,,Approved,Paid,F49A2C375671571C15300325FD7017,2021-04-08,
+3,FT7449815,FT4852159,FT7119683,Left,"Bhudeva DAP",Member2,g.sujoydas@gmail.com,9830098304,"kolkata, west bengal, India",,,,,,,,,,,,,Approved,Paid,20AE72F94374A120C1369650AF51FF,2021-04-08,
+4,FT2449001,FT4852159,FT4852159,Right,,Member1,admin@nbcedigitalindia.in,7282850668,"kolkata, west bengal, India",,,,,,,,,,,,,Approved,Paid,1705981B2ABE023573A0109468F605,2021-04-08,
+5,FT5306710,FT2449001,,Left,"Bhudeva DAP","Sandhya Kashyap",sandhyakashyapsalkha@gmail.com,7697808929,"Bilaspur chhattisgarh",,,,,,,,,,,,,Approved,Pending,,2023-11-21,
+6,FT6897000,FT2449001,FT2449001,Right,"Bhudeva DAP","DILHARAN YADAV",dilharanyadav106@gmail.com,9823658797,Ratanpur,,,,,,,,,,,,,Approved,Paid,3D18A4EAFF31DDE5636AFC50BC7A45,2023-11-21,
+7,FT3578644,Ft6897000,Ft6897000,Left,"Bhudeva DAP","Mukesh Sahu",mukh@gmail.com,8120348834,Kargi,,,,,,,,,,,,,Approved,Paid,3A5B3B9511DEB9B6A4D67810D18CC5,2023-11-22,
+8,FT5185834,Ft6897000,Ft6897000,Right,"Bhudeva DAP",Ramkali,khghjg@gmail.com,6565434445,Ragi,,,,,,,,,,,,,Approved,Paid,2A76F5DD82CB6676DB64C4B9F48CC6,2023-11-22,
+9,FT6337783,FT6897000,,Left,"Bhudeva DAP",SHASHI,shashi@gimal.com,9691113283,"Bilaspur chhattisgarh",,,,,,,,,,,,,Approved,Pending,,2023-11-22,
+10,FT8755148,FT6897000,Ft5185834,Right,"Bhudeva DAP","Ramayan Bhanu",ramayanbhanu30@gimal.com,9070804510,"Pendra rod",,,,,,,,,,,,,Approved,Paid,7D0B478A26552BD81E1A81465A2AA1,2023-11-22,
